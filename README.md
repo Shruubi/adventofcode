@@ -2,4 +2,4 @@
 
 http://adventofcode.com/
 
-Completed up to: day 5
+Completed up to: day 6
